@@ -1,16 +1,16 @@
 # RavenLMD.github.io
-###Self Assessment
+### Self Assessment
 
-##Code Review
+## Code Review
 
-##Inventory Manager
+## Inventory Manager
 
-###Link to (new code), Link to (old code)
+### Link to (new code), Link to (old code)
 
-###Narrative 1, Narrative 2
+### Narrative 1, Narrative 2
 
-##Data Structure Comparator
+## Data Structure Comparator
 
-###Link to (new code), Link to (old code)
+### Link to (new code), Link to (old code)
 
-###Narrative 3
+### Narrative 3
