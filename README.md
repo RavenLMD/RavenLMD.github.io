@@ -21,11 +21,11 @@
 
 ### Link to (new code), Link to (old code)
 
-### Narrative 1, Narrative 2
+### Link to Narrative 1, Link to Narrative 2
 
 ## Data Structure Comparator
 ![Alt text](/DataStructureComparatorVim.png)
 
 ### Link to (new code), Link to (old code)
 
-### Narrative 3
+### Link to Narrative 3
