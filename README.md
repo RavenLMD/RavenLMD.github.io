@@ -13,19 +13,19 @@
 ### Nam interdum velit sit amet posuere molestie. Curabitur eget sem ligula. Maecenas finibus id orci vitae tincidunt. Integer suscipit quam ac felis commodo placerat. Nullam dignissim tortor et eleifend consequat. Etiam ornare nisl sem, vel gravida ligula ultrices eu. Nulla faucibus lorem id nulla tincidunt rutrum. Morbi dignissim imperdiet dui aliquet mattis. Quisque sem elit, ultricies vel nisl non, euismod congue ante. Phasellus bibendum leo libero, eu volutpat ipsum ultricies id. Sed rutrum pellentesque justo sed cursus. Aenean eu placerat elit. Sed risus tellus, sollicitudin a ultricies at, eleifend at nisl. Aenean et bibendum arcu. 
 
 
-## Code Review
+## [Code Review](https://www.youtube.com/watch?v=ZDUXrDazASc)
 
 ## Inventory Manager
 ![Alt text](/InventoryScreens.png)
 
 
-### Link to (new code), Link to (old code)
+### Link to [new code](https://github.com/RavenLMD/InventoryManager), Link to [old code](https://github.com/RavenLMD/CS360)
 
 ### Link to Narrative 1, Link to Narrative 2
 
 ## Data Structure Comparator
 ![Alt text](/DataStructureComparatorVim.png)
 
-### Link to (new code), Link to (old code)
+### Link to [new code](https://github.com/RavenLMD/DataStructureComparator), Link to [old code](https://github.com/RavenLMD/CS300)
 
 ### Link to Narrative 3
