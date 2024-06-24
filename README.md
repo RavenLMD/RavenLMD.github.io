@@ -14,6 +14,16 @@
 
 ### The computer science program involved a large amount of software engineering practice, which has been applied at length in my previously mentioned engagements with computational visualization, machine learning, data visualization, and cyber security, the first three of which required a well developed understanding of databases, in order to have efficient and effective data solutions.
 
+### In order to demonstrate these abilities, I have chosen to modify two artifacts from previous courses which represent my abilities to employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making; to develop solutions using algorithmic principles and computer science best practices; to employ well-founded and innovative techniques, skills, and tools in computing practices; and to employ a security mindset that anticipates exploits and ensures privacy and security.
+
+### These two artifacts have been modified from their original forms according to three categories. Software design and engineering, databases, and data structures and algorithms.
+
+### For the areas of software design and engineering and databases, I have chosen a previously developed phone application called Inventory Manager. This app was chosen as it displayed knowledge in multiple technologies while also providing opportunities to show growth in both software design and engineering and databases.
+
+### For the area of data structures and algorithms, I have chosen a previously developed final project for my data structures and algorithms course. This project was a binary search tree implementation which recorded the speeds of various algorithms. Using this basis, in order to show off the ability to construct and use complex data structures, I have set out to construct a data structure comparator though the implementation of various data structures.
+
+### Below is a code review of the old versions of the artifacts. Below that is my old code, my modified code, and their associated narratives.
+
 
 ## [Code Review](https://www.youtube.com/watch?v=ZDUXrDazASc)
 ![Alt text](/Video.png)
