@@ -16,6 +16,7 @@
 ## Code Review
 
 ## Inventory Manager
+![Alt text](/InventoryManager.jpg)
 
 ### Link to (new code), Link to (old code)
 
