@@ -14,6 +14,7 @@
 
 
 ## [Code Review](https://www.youtube.com/watch?v=ZDUXrDazASc)
+![Alt text](/Video.png)
 
 ## Inventory Manager
 ![Alt text](/InventoryScreens.png)
