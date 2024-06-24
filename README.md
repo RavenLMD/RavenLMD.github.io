@@ -21,11 +21,11 @@
 
 ### Link to [new code](https://github.com/RavenLMD/InventoryManager), Link to [old code](https://github.com/RavenLMD/CS360)
 
-### Link to Narrative 1, Link to Narrative 2
+### Link to [Narrative 2](Milestone2Narrative.docx), Link to Narrative 3
 
 ## Data Structure Comparator
 ![Alt text](/DataStructureComparatorVim.png)
 
 ### Link to [new code](https://github.com/RavenLMD/DataStructureComparator), Link to [old code](https://github.com/RavenLMD/CS300)
 
-### Link to Narrative 3
+### Link to Narrative 4
